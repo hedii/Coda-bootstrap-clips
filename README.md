@@ -50,6 +50,7 @@ Type *bootstrap* and press **TAB**
 </body>
 </html>
 ```
+
 #### Navbar
 Type *navbar* and press **TAB**
 ```html
@@ -72,6 +73,7 @@ Type *navbar* and press **TAB**
 	</div><!-- .container-fluid -->
 </nav><!-- .navbar -->
 ```
+
 #### Container div
 Type *container* and press **TAB**
 ```html
@@ -80,7 +82,7 @@ Type *container* and press **TAB**
 </div><!-- .container -->
 ```
 
-Container fluid div
+#### Container fluid div
 Type *container-fluid* and press **TAB**
 ```html
 <div class="container-fluid">
@@ -103,6 +105,7 @@ Type *col-xs* and press **TAB**
 	
 </div>
 ```
+
 #### Column sm
 Type *col-sm* and press **TAB**
 ```html
@@ -110,6 +113,7 @@ Type *col-sm* and press **TAB**
 	
 </div>
 ```
+
 #### Column md
 Type *col-md* and press **TAB**
 ```html
@@ -117,6 +121,7 @@ Type *col-md* and press **TAB**
 	
 </div>
 ```
+
 #### Column lg
 Type *col-lg* and press **TAB**
 ```html
@@ -124,6 +129,7 @@ Type *col-lg* and press **TAB**
 	
 </div>
 ```
+
 #### Form group
 Type *form-group* and press **TAB**
 ```html
@@ -132,6 +138,7 @@ Type *form-group* and press **TAB**
 	<input type="" class="form-control" id="" name="" placeholder="">
 </div>
 ```
+
 #### Pagination
 Type *pagination* and press **TAB**
 ```html
@@ -155,21 +162,25 @@ Type *pagination* and press **TAB**
 	</ul>
 </nav>
 ```
+
 #### Alert success
 Type *alert-success* and press **TAB**
 ```html
 <div class="success alert-success" role="alert"></div>
 ```
+
 #### Alert info
 Type *alert-info* and press **TAB**
 ```html
 <div class="alert alert-info" role="alert"></div>
 ```
+
 #### Alert warning
 Type *alert-warning* and press **TAB**
 ```html
 <div class="alert alert-warning" role="alert"></div>
 ```
+
 #### Alert danger
 Type *alert-danger* and press **TAB**
 ```html
