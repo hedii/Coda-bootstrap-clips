@@ -7,7 +7,7 @@ Copy Bootstrap.clips in Coda Clips folder:
 
 ### Usage
 Type *bootstrap* and press **TAB**
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -50,7 +50,7 @@ Type *bootstrap* and press **TAB**
 ```
 
 Type *navbar* and press **TAB**
-```
+```html
 <nav class="navbar navbar-default" role="navigation">
 	<div class="container-fluid">
 		<div class="navbar-header">
@@ -72,56 +72,56 @@ Type *navbar* and press **TAB**
 ```
 
 Type *container* and press **TAB**
-```
+```html
 <div class="container">
 	
 </div><!-- .container -->
 ```
 
 Type *container-fluid* and press **TAB**
-```
+```html
 <div class="container-fluid">
 	
 </div><!-- .container-fluid -->
 ```
 
 Type *row* and press **TAB**
-```
+```html
 <div class="row">
 	
 </div><!-- .row -->
 ```
 
 Type *col-xs* and press **TAB**
-```
+```html
 <div class="col-xs-">
 	
 </div>
 ```
 
 Type *col-sm* and press **TAB**
-```
+```html
 <div class="col-sm-">
 	
 </div>
 ```
 
 Type *col-md* and press **TAB**
-```
+```html
 <div class="col-md-">
 	
 </div>
 ```
 
 Type *col-lg* and press **TAB**
-```
+```html
 <div class="col-lg-">
 	
 </div>
 ```
 
 Type *form-group* and press **TAB**
-```
+```html
 <div class="form-group">
 	<label for=""></label>
 	<input type="" class="form-control" id="" name="" placeholder="">
@@ -129,7 +129,7 @@ Type *form-group* and press **TAB**
 ```
 
 Type *pagination* and press **TAB**
-```
+```html
 <nav>
 	<ul class="pagination">
 		<li>
@@ -152,22 +152,22 @@ Type *pagination* and press **TAB**
 ```
 
 Type *alert-success* and press **TAB**
-```
+```html
 <div class="success alert-success" role="alert"></div>
 ```
 
 Type *alert-info* and press **TAB**
-```
+```html
 <div class="alert alert-info" role="alert"></div>
 ```
 
 Type *alert-warning* and press **TAB**
-```
+```html
 <div class="alert alert-warning" role="alert"></div>
 ```
 
 Type *alert-danger* and press **TAB**
-```
+```html
 <div class="alert alert-danger" role="alert"></div>
 ```
 
