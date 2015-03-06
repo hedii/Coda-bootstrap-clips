@@ -193,3 +193,109 @@ Type `alert-danger` and press **`TAB`**
 <div class="alert alert-danger" role="alert"></div>
 ```
 
+#### Panel
+Type `panel` and press **`TAB`**
+```html
+<div class="panel panel-default">
+	<div class="panel-heading">
+		<h3 class="panel-title"></h3>
+	</div>
+	<div class="panel-body">
+		
+	</div>
+</div>
+```
+
+#### Accordion
+Type `accordion` and press **`TAB`**
+```html
+<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+	<div class="panel panel-default">
+		<div class="panel-heading" role="tab" id="headingOne">
+			<h4 class="panel-title">
+				<a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Collapsible Group Item #1</a>
+			</h4>
+		</div>
+		<div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+			<div class="panel-body">
+				Panel 1 body....
+			</div>
+		</div>
+	</div>
+	<div class="panel panel-default">
+		<div class="panel-heading" role="tab" id="headingTwo">
+			<h4 class="panel-title">
+				<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">Collapsible Group Item #2</a>
+			</h4>
+		</div>
+		<div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+			<div class="panel-body">
+				Panel 2 body....
+			</div>
+		</div>
+	</div>
+	<div class="panel panel-default">
+		<div class="panel-heading" role="tab" id="headingThree">
+			<h4 class="panel-title">
+				<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">Collapsible Group Item #3</a>
+			</h4>
+		</div>
+		<div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+			<div class="panel-body">
+				Panel 3 body....
+			</div>
+		</div>
+	</div>
+</div><!-- .panel-group -->
+```
+
+#### Breadcrumb
+Type `breadcrumb` and press **`TAB`**
+```html
+<ol class="breadcrumb">
+	<li><a href="#">Home</a></li>
+	<li><a href="#">Library</a></li>
+	<li class="active">Data</li>
+</ol>
+```
+
+#### Carousel
+Type `carousel` and press **`TAB`**
+```html
+<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+	<ol class="carousel-indicators">
+		<li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+		<li data-target="#carousel-example-generic" data-slide-to="1"></li>
+		<li data-target="#carousel-example-generic" data-slide-to="2"></li>
+	</ol>
+	<div class="carousel-inner" role="listbox">
+		<div class="item active">
+			<img src="http://placehold.it/900x500" alt="">
+			<div class="carousel-caption">
+				Caption 1
+			</div>
+		</div>
+		<div class="item">
+			<img src="http://placehold.it/900x500" alt="">
+			<div class="carousel-caption">
+				Caption 2
+			</div>
+		</div>
+		<div class="item">
+			<img src="http://placehold.it/900x500" alt="">
+			<div class="carousel-caption">
+				Caption 3
+			</div>
+		</div>
+	</div>
+	<a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+		<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+		<span class="sr-only">Previous</span>
+	</a>
+	<a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+		<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+		<span class="sr-only">Next</span>
+	</a>
+</div><!-- .carousel -->
+```
+
