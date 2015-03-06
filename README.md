@@ -1,5 +1,5 @@
 # Coda-bootstrap-clips
-Bootstrap Clips for Panic Coda 2
+Twitter Bootstrap 3.x Clips for Panic Coda 2
 
 ## Note
 All resulting html code from these clips is indented with standard tabs.
