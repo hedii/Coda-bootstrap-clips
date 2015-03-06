@@ -8,7 +8,7 @@ Copy Bootstrap.clips in Coda Clips folder:
 
 ## Usage
 #### Starter page
-Type `*bootstrap*` and press `**TAB**`
+Type `bootstrap` and press **`TAB`**
 ```html
 <!DOCTYPE html>
 <html lang="en">
