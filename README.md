@@ -1,12 +1,13 @@
 # Coda-bootstrap-clips
 Bootstrap Clips for Panic Coda 2
 
-### Installation
+## Installation
 Copy Bootstrap.clips in Coda Clips folder:
 
 */Users/[OSX Username]/Library/Application Support/Coda 2/Clips*
 
-### Usage
+## Usage
+#### Starter page
 Type *bootstrap* and press **TAB**
 ```html
 <!DOCTYPE html>
@@ -49,7 +50,7 @@ Type *bootstrap* and press **TAB**
 </body>
 </html>
 ```
-
+#### Navbar
 Type *navbar* and press **TAB**
 ```html
 <nav class="navbar navbar-default" role="navigation">
@@ -71,7 +72,7 @@ Type *navbar* and press **TAB**
 	</div><!-- .container-fluid -->
 </nav><!-- .navbar -->
 ```
-
+#### Container div
 Type *container* and press **TAB**
 ```html
 <div class="container">
@@ -79,6 +80,7 @@ Type *container* and press **TAB**
 </div><!-- .container -->
 ```
 
+Container fluid div
 Type *container-fluid* and press **TAB**
 ```html
 <div class="container-fluid">
@@ -86,6 +88,7 @@ Type *container-fluid* and press **TAB**
 </div><!-- .container-fluid -->
 ```
 
+#### Row div
 Type *row* and press **TAB**
 ```html
 <div class="row">
@@ -93,34 +96,35 @@ Type *row* and press **TAB**
 </div><!-- .row -->
 ```
 
+#### Column xs
 Type *col-xs* and press **TAB**
 ```html
 <div class="col-xs-">
 	
 </div>
 ```
-
+#### Column sm
 Type *col-sm* and press **TAB**
 ```html
 <div class="col-sm-">
 	
 </div>
 ```
-
+#### Column md
 Type *col-md* and press **TAB**
 ```html
 <div class="col-md-">
 	
 </div>
 ```
-
+#### Column lg
 Type *col-lg* and press **TAB**
 ```html
 <div class="col-lg-">
 	
 </div>
 ```
-
+#### Form group
 Type *form-group* and press **TAB**
 ```html
 <div class="form-group">
@@ -128,7 +132,7 @@ Type *form-group* and press **TAB**
 	<input type="" class="form-control" id="" name="" placeholder="">
 </div>
 ```
-
+#### Pagination
 Type *pagination* and press **TAB**
 ```html
 <nav>
@@ -151,22 +155,22 @@ Type *pagination* and press **TAB**
 	</ul>
 </nav>
 ```
-
+#### Alert success
 Type *alert-success* and press **TAB**
 ```html
 <div class="success alert-success" role="alert"></div>
 ```
-
+#### Alert info
 Type *alert-info* and press **TAB**
 ```html
 <div class="alert alert-info" role="alert"></div>
 ```
-
+#### Alert warning
 Type *alert-warning* and press **TAB**
 ```html
 <div class="alert alert-warning" role="alert"></div>
 ```
-
+#### Alert danger
 Type *alert-danger* and press **TAB**
 ```html
 <div class="alert alert-danger" role="alert"></div>
