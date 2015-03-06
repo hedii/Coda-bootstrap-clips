@@ -5,8 +5,10 @@ Bootstrap Clips for Panic Coda 2
 All resulting html code from these clips is indented with standard tabs.
 Bootstrap two spaces sucks.
 
+New clips will come soon...
+
 ## Installation
-Copy Bootstrap.clips in Coda Clips folder:
+Copy Bootstrap.clips an paste it in the Coda Clips folder:
 
 */Users/[OSX Username]/Library/Application Support/Coda 2/Clips*
 
