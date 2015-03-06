@@ -52,7 +52,7 @@ Type `bootstrap` and press **`TAB`**
 ```
 
 #### Navbar
-Type *navbar* and press **TAB**
+Type `navbar` and press **`TAB`**
 ```html
 <nav class="navbar navbar-default" role="navigation">
 	<div class="container-fluid">
@@ -75,7 +75,7 @@ Type *navbar* and press **TAB**
 ```
 
 #### Container div
-Type *container* and press **TAB**
+Type `container` and press **`TAB`**
 ```html
 <div class="container">
 	
@@ -83,7 +83,7 @@ Type *container* and press **TAB**
 ```
 
 #### Container fluid div
-Type *container-fluid* and press **TAB**
+Type `*container-fluid*` and press **`TAB`**
 ```html
 <div class="container-fluid">
 	
@@ -91,7 +91,7 @@ Type *container-fluid* and press **TAB**
 ```
 
 #### Row div
-Type *row* and press **TAB**
+Type *row* and press **`TAB`**
 ```html
 <div class="row">
 	
@@ -99,7 +99,7 @@ Type *row* and press **TAB**
 ```
 
 #### Column xs
-Type *col-xs* and press **TAB**
+Type *col-xs* and press **`TAB`**
 ```html
 <div class="col-xs-">
 	
@@ -107,7 +107,7 @@ Type *col-xs* and press **TAB**
 ```
 
 #### Column sm
-Type *col-sm* and press **TAB**
+Type *col-sm* and press **`TAB`**
 ```html
 <div class="col-sm-">
 	
@@ -115,7 +115,7 @@ Type *col-sm* and press **TAB**
 ```
 
 #### Column md
-Type *col-md* and press **TAB**
+Type *col-md* and press **`TAB`**
 ```html
 <div class="col-md-">
 	
@@ -123,7 +123,7 @@ Type *col-md* and press **TAB**
 ```
 
 #### Column lg
-Type *col-lg* and press **TAB**
+Type *col-lg* and press **`TAB`**
 ```html
 <div class="col-lg-">
 	
@@ -131,7 +131,7 @@ Type *col-lg* and press **TAB**
 ```
 
 #### Form group
-Type *form-group* and press **TAB**
+Type *form-group* and press **`TAB`**
 ```html
 <div class="form-group">
 	<label for=""></label>
@@ -140,7 +140,7 @@ Type *form-group* and press **TAB**
 ```
 
 #### Pagination
-Type *pagination* and press **TAB**
+Type *pagination* and press **`TAB`**
 ```html
 <nav>
 	<ul class="pagination">
@@ -164,25 +164,25 @@ Type *pagination* and press **TAB**
 ```
 
 #### Alert success
-Type *alert-success* and press **TAB**
+Type *alert-success* and press **`TAB`**
 ```html
 <div class="success alert-success" role="alert"></div>
 ```
 
 #### Alert info
-Type *alert-info* and press **TAB**
+Type *alert-info* and press **`TAB`**
 ```html
 <div class="alert alert-info" role="alert"></div>
 ```
 
 #### Alert warning
-Type *alert-warning* and press **TAB**
+Type *alert-warning* and press **`TAB`**
 ```html
 <div class="alert alert-warning" role="alert"></div>
 ```
 
 #### Alert danger
-Type *alert-danger* and press **TAB**
+Type *alert-danger* and press **`TAB`**
 ```html
 <div class="alert alert-danger" role="alert"></div>
 ```
