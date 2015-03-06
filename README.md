@@ -1,11 +1,12 @@
 # Coda-bootstrap-clips
 Bootstrap Clips for Panic Coda 2
 
-<<<<<<< Updated upstream
 Copy Bootstrap.clips in Coda Clips folder:
 /Users/[OSX Username]/Library/Application Support/Coda 2/Clips
 =======
+
 ### Installation
+
 Copy Bootstrap.clips in Coda Clips folder:
 /Users/[OSX Username]/Library/Application Support/Coda 2/Clips
 
