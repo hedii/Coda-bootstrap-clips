@@ -8,7 +8,7 @@ Bootstrap two spaces sucks.
 New clips will come soon...
 
 ## Installation
-Copy Bootstrap.clips an paste it in the Coda Clips folder:
+Copy [Bootstrap.clips](https://github.com/hedii/Coda-bootstrap-clips/blob/master/Bootstrap.clips) an paste it in the Coda Clips folder:
 
 */Users/[OSX Username]/Library/Application Support/Coda 2/Clips*
 
