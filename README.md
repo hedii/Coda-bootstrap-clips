@@ -83,7 +83,7 @@ Type `container` and press **`TAB`**
 ```
 
 #### Container fluid div
-Type `*container-fluid*` and press **`TAB`**
+Type *`container-fluid`* and press **`TAB`**
 ```html
 <div class="container-fluid">
 	
