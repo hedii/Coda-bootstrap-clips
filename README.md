@@ -2,8 +2,9 @@
 Twitter Bootstrap 3.x Clips for Panic Coda 2
 
 ## Note
-All resulting html code from these clips is indented with standard tabs.
+- All resulting html code from these clips is indented with standard tabs.
 Bootstrap two spaces sucks.
+- Some clips like `table + TAB`, `select + TAB` or `form + TAB` are not included to avoid conflicts because they are already here in coda default clips.
 
 New clips will come soon...
 
@@ -57,28 +58,7 @@ Type `bootstrap` and press **`TAB`**
 </html>
 ```
 
-#### Navbar
-Type `navbar` and press **`TAB`**
-```html
-<nav class="navbar navbar-default" role="navigation">
-	<div class="container-fluid">
-		<div class="navbar-header">
-			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-				<span class="sr-only">Toggle navigation</span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-			</button>
-			<a class="navbar-brand" href="#"></a>
-		</div>
-		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-			<ul class="nav navbar-nav navbar-right">
-				<li><a href="#">Link</a></li>
-			</ul>
-		</div><!-- .navbar-collapse -->
-	</div><!-- .container-fluid -->
-</nav><!-- .navbar -->
-```
+### Grid system
 
 #### Container div
 Type `container` and press **`TAB`**
@@ -136,6 +116,86 @@ Type `col-lg` and press **`TAB`**
 </div>
 ```
 
+### Typography
+
+#### Lead
+Type `lead` and press **`TAB`**
+```html
+<p class="lead">
+	
+</p>
+```
+
+#### Blockquote
+Type `blockquote` and press **`TAB`**
+```html
+<blockquote>
+	<p></p>
+</blockquote>
+```
+
+### Tables
+
+#### Table striped
+Type `table-striped` and press **`TAB`**
+```html
+<table class="table table-striped">
+	
+</table>
+```
+
+#### Table bordered
+Type `table-bordered` and press **`TAB`**
+```html
+<table class="table table-bordered">
+	
+</table>
+```
+
+#### Table hover
+Type `table-hover` and press **`TAB`**
+```html
+<table class="table table-hover">
+	
+</table>
+```
+
+#### Table condensed
+Type `table-condensed` and press **`TAB`**
+```html
+<table class="table table-condensed">
+	
+</table>
+```
+
+#### Table responsive
+Type `table-responsive` and press **`TAB`**
+```html
+<div class="table-responsive">
+	<table class="table">
+		
+	</table>
+</div>
+```
+
+### Forms
+
+#### Inline form
+Type `inline-form` and press **`TAB`**
+```html
+<form class="form-inline">
+	
+</form>
+```
+
+#### Horizontal form
+Type `horizontal-form` and press **`TAB`**
+```html
+<form class="form-horizontal">
+	
+</form>
+```
+
 #### Form group
 Type `form-group` and press **`TAB`**
 ```html
@@ -144,6 +204,150 @@ Type `form-group` and press **`TAB`**
 	<input type="" class="form-control" id="" name="" placeholder="">
 </div>
 ```
+
+#### Checkbox
+Type `checkbox` and press **`TAB`**
+```html
+<div class="checkbox">
+	<label>
+		<input type="checkbox" name="" id="" value="">
+		
+	</label>
+</div>
+```
+
+#### Radio
+Type `radio` and press **`TAB`**
+```html
+<div class="radio">
+	<label>
+		<input type="radio" name="" id="" value="">
+		
+	</label>
+</div>
+```
+
+#### Inline checkbox
+Type `checkbox-inline` and press **`TAB`**
+```html
+<label class="checkbox-inline">
+	<input type="checkbox" name="" id="" value=""> 
+</label>
+```
+
+#### Inline radio
+Type `radio-inline` and press **`TAB`**
+```html
+<label class="radio-inline">
+	<input type="radio" name="" id="" value=""> 
+</label>
+```
+
+#### Multiple select
+Type `select-multiple` and press **`TAB`**
+```html
+<select multiple class="form-control" name="">
+	<option value=""></option>
+	<option value=""></option>
+</select>
+```
+
+### Buttons
+
+#### Default button
+Type `btn-default` and press **`TAB`**
+```html
+<a href="" class="btn btn-default"></a>
+```
+
+#### Primary button
+Type `btn-primary` and press **`TAB`**
+```html
+<a href="" class="btn btn-primary"></a>
+```
+
+#### Success button
+Type `btn-success` and press **`TAB`**
+```html
+<a href="" class="btn btn-success"></a>
+```
+
+#### Info button
+Type `btn-info` and press **`TAB`**
+```html
+<a href="" class="btn btn-info"></a>
+```
+
+#### Warning button
+Type `btn-warning` and press **`TAB`**
+```html
+<a href="" class="btn btn-warning"></a>
+```
+
+#### Danger button
+Type `btn-danger` and press **`TAB`**
+```html
+<a href="" class="btn btn-danger"></a>
+```
+
+#### Link button
+Type `btn-link` and press **`TAB`**
+```html
+<a href="" class="btn btn-link"></a>
+```
+
+### Images
+
+#### Responsive image
+Type `img-responsive` and press **`TAB`**
+```html
+<img class="img-responsive" src="" alt="">
+```
+
+#### Rounded image
+Type `img-rounded` and press **`TAB`**
+```html
+<img class="img-rounded" src="" alt="">
+```
+
+#### Circle image
+Type `img-circle` and press **`TAB`**
+```html
+<img class="img-circle" src="" alt="">
+```
+
+#### Thumbnail image
+Type `img-thumbnail` and press **`TAB`**
+```html
+<img class="img-thumbnail" src="" alt="">
+```
+
+#### Navbar
+Type `navbar` and press **`TAB`**
+```html
+<nav class="navbar navbar-default" role="navigation">
+	<div class="container-fluid">
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			<a class="navbar-brand" href="#"></a>
+		</div>
+		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+			<ul class="nav navbar-nav navbar-right">
+				<li><a href="#">Link</a></li>
+			</ul>
+		</div><!-- .navbar-collapse -->
+	</div><!-- .container-fluid -->
+</nav><!-- .navbar -->
+```
+
+----------------------------------------------
+
+### Components
 
 #### Pagination
 Type `pagination` and press **`TAB`**
